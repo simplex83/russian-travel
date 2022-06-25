@@ -1,0 +1,18 @@
+.place__website-link {
+  padding-top: 12px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  color: inherit;
+}
+
+.place__website-link:hover {
+  opacity: .8;
+}
+
+@media screen and (max-width: 767px) {
+  .place__website-link {
+      padding: 0 16px;
+  }
+}

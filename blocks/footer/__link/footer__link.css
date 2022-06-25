@@ -1,0 +1,9 @@
+.footer__link {
+    list-style-type: none;
+    color: inherit;
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    opacity: .8;
+ }
