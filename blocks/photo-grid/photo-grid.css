@@ -15,11 +15,10 @@
     }
 }
 
-@media screen and(max-width: 1023px) {
+@media screen and (max-width: 1023px) {
     .photo-grid {
         max-width: calc(100% - 2 * 24px);
         grid-template-columns: repeat(2, 1fr);
-        gap: 16px;
         padding-top: 88px;
     }
 }
