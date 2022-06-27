@@ -12,7 +12,7 @@
 }
 
 .cover__overlay:hover {
-    opacity: .8;
+    background-image: linear-gradient(rgba(42, 44, 47, 0.5), rgba(42, 44, 47, 0.5)), url(../../../images/cover-trains.jpg);
  }
 
 @media screen and (max-width: 1279px) {
